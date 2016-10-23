@@ -1,0 +1,16 @@
+{
+  "name": "typescript_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc -p src -w",
+    "start": "live-server --open=html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.0.0",
+    "typescript": "^1.8.10"
+  }
+}
